@@ -7,4 +7,4 @@ Problem 1: Draw the moral graph, triangulated graph and the junction tree. Expla
 Problem 2: Describe how the different terms on the right hand side of "p(V ) = p(a)p(t | a)p(s)p(l | s)p(b | s)p(e | t, l)p(d | e, b)p(x | e)" are distributed among the different juction tree clusters. Write out the messages using these terms and verify that the message passing algorithm indeed gives the cluster marginals.
 [Optional] Problem 3: Find the joint probability with MCMC.
 
-Format: ![Map](D:\pr)
+Format: ![Map](https://github.com/rheacarmel/Pattern-Recognition/blob/master/Project2/Picture1.png)
